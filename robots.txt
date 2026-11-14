@@ -1,1 +1,4 @@
-User-agent: *\nAllow: /\nSitemap: https://YOUR-WEBSITE-DOMAIN/sitemap.xml\n
+User-agent: *
+Allow: /
+
+Sitemap: https://flyanddrive.github.io/fly-and-drive-bagdogra/sitemap.xml
