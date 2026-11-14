@@ -1,1 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://YOUR-WEBSITE-DOMAIN/</loc></url><url><loc>https://YOUR-WEBSITE-DOMAIN/cars.html</loc></url><url><loc>https://YOUR-WEBSITE-DOMAIN/booking.html</loc></url><url><loc>https://YOUR-WEBSITE-DOMAIN/bagdogra.html</loc></url><url><loc>https://YOUR-WEBSITE-DOMAIN/siliguri.html</loc></url></urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://flyanddrive.github.io/fly-and-drive-bagdogra/</loc>
+  </url>
+  <url>
+    <loc>https://flyanddrive.github.io/fly-and-drive-bagdogra/cars.html</loc>
+  </url>
+  <url>
+    <loc>https://flyanddrive.github.io/fly-and-drive-bagdogra/booking.html</loc>
+  </url>
+  <url>
+    <loc>https://flyanddrive.github.io/fly-and-drive-bagdogra/bagdogra.html</loc>
+  </url>
+  <url>
+    <loc>https://flyanddrive.github.io/fly-and-drive-bagdogra/siliguri.html</loc>
+  </url>
+</urlset>
